@@ -1,7 +1,7 @@
 {
   "Products": [
     {  "productName": "Montgomery County Library",
-      "productDescription": "Montgomery County Public Libraries offers free and equal access to services and resources that connect the people of Montgomery County to ideas and information which sustain and enrich their lives.",
+      "productDescription": "Montgomery County Public Libraries offers free and equal access to services and resources.",
       "productPrice": "22",
       "productImage":"https://raw.githubusercontent.com/donalmeida/demo/master/harpersferry.jpg", 
       "productWeb":"https://montgomerycountymd.gov/library/services/registration.html"}, 
